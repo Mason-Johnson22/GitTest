@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         //Help me
     }
 
-
+    func masonHello(){
+        print("hello mason")
+    }
 }
 
